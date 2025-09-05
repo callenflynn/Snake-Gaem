@@ -4,6 +4,8 @@ This is the repository for versions 1.2+. for versions 1.1.2 and earlier, visit 
 NO LONGER OPEN-SOURCE
 only opensource versions are legacy versions.
 
+made from scratch in C#
+
 # installation
 download the MSI installer
 If you see a windows defender screen click “More info” → “Run anyway.”
