@@ -6,3 +6,4 @@ only opensource versions are legacy versions.
 
 # installation
 download the MSI installer
+If you see a windows defender screen click “More info” → “Run anyway.”
